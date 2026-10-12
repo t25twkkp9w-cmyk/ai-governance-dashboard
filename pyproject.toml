@@ -1,0 +1,21 @@
+[project]
+name = "ai-governance-dashboard"
+version = "0.1.0"
+description = "AI governance dashboard: real-world AI incidents classified against the EU AI Act, NIST AI RMF and ISO/IEC 42001, plus a global AI policy & regulation explorer."
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "openai>=1.40.0",
+    "pandas>=2.2.0",
+    "plotly>=5.22.0",
+    "python-dotenv>=1.0.0",
+    "pyyaml>=6.0",
+    "streamlit>=1.46.0",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

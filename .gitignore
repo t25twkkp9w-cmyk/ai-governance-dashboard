@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+genai_agentic_incidents/
+aipolicytracker/
+global-ai-atlas/
+.DS_Store

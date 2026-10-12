@@ -1,0 +1,20 @@
+# Theme matching the AI Governance Dashboard design.
+# The [theme.sidebar] section needs Streamlit 1.46+; theme.py adds CSS fallbacks for older versions.
+
+[theme]
+base = "light"
+primaryColor = "#1C5CAB"
+backgroundColor = "#F3F4F1"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#15181D"
+borderColor = "#E1E3DF"
+baseRadius = "8px"
+
+[theme.sidebar]
+backgroundColor = "#2B3038"
+secondaryBackgroundColor = "#3A414B"
+textColor = "#E8EAED"
+borderColor = "#4A515C"
+
+[client]
+toolbarMode = "minimal"

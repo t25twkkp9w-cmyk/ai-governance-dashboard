@@ -1,0 +1,41 @@
+keep_id,duplicate_id,duplicate_source,score,keep_title,duplicate_title,review
+INC-06554,INC-06576,OECD AIM,0.825,Facebook actively promotes holocaust denial,Facebook's AI Algorithm Promotes Holocaust Denial Content,manual
+INC-05817,INC-05818,OECD AIM,0.748,RCMP violated Canadians' privacy using Clearview AI facial recognition,RCMP's Use of Clearview AI Facial Recognition Violated Canadian Privacy Law,manual
+INC-07107,INC-07108,OECD AIM,0.73,Verkada employees use facial recognition to surveil colleagues,Verkada Employees Used AI Facial Recognition to Harass Female Colleagues,manual
+INC-02591,INC-01040,OECD AIM,0.725,Ford recalls 4.4 million vehicles over faulty automated trailer software,Ford Recalls Over 4 Million Vehicles Due to AI-Controlled Trailer Module Software Defect,manual
+INC-05674,INC-05685,OECD AIM,0.723,Google patient data deal with HCA Healthcare accused of violating patient privacy,Google-HCA Healthcare AI Partnership Raises Patient Data Privacy Concerns,manual
+INC-07724,INC-00364,OECD AIM,0.71,Chinese AI actors spark personality rights controversy,AI-Generated Actors Spark Portrait Rights Controversy in China,manual
+INC-03038,INC-00122,OECD AIM,0.669,Political chatbots provide biased political advice about Dutch elections,"AI Chatbots Provide Biased Voting Advice, Neglecting Local Parties in Dutch Elections",manual
+INC-07222,INC-06673,OECD AIM,0.666,Project Nightingale patient data sharing slammed for violating privacy,Google's Project Nightingale Sparks Privacy Concerns Over AI Access to Patient Data,manual
+INC-05672,INC-05665,OECD AIM,0.657,Google misidentifies software engineer as serial killer,Google Algorithm Wrongly Labels Engineer as Serial Killer,manual
+INC-07032,INC-07071,OECD AIM,0.656,Tyndall Air Force base robot patrol dogs,US Air Force Deploys AI Robot Dogs for Military Base Security Patrols,manual
+INC-06110,INC-06108,OECD AIM,0.601,TikTok fails to stop beheading video going viral,TikTok AI Moderation Fails to Block Graphic Beheading Video,manual
+INC-05608,INC-05603,OECD AIM,0.596,"Facebook content moderation system mistakenly flags French town ""Bitche""",Facebook AI Moderation Wrongly Censors French Town 'Bitche' Over Name Confusion,manual
+INC-05571,INC-05572,OECD AIM,0.594,Delhi government schools accused of facial recognition 'privacy abuse',Delhi Schools' Facial Recognition Rollout Sparks Privacy Backlash,manual
+INC-06218,INC-06537,OECD AIM,0.592,AI benefits for medical imaging 'exaggerated',Exaggerated Claims of AI Outperforming Doctors in Medical Imaging Raise Safety Concerns,manual
+INC-00683,INC-00684,OECD AIM,0.584,Bengaluru techie fires cook after AI monitoring system catches her stealing fruit,Bengaluru Techie Fires Cook After AI Surveillance Detects Theft,manual
+INC-05442,INC-05525,OECD AIM,0.579,AI-powered Uyghur emotion detection system prompts rights concerns,China Tests AI Emotion-Detection on Uyghur Detainees in Xinjiang,manual
+INC-01851,INC-14578,OECD AIM,0.574,Tenerife lawyer fined for multiple AI-generated legal citations,Spanish Lawyer Fined for Submitting AI-Generated Legal Document with Fabricated Citations,manual
+INC-01821,INC-01817,OECD AIM,0.569,Study: ChatGPT Health fails critical emergency and suicide tests,Study Finds ChatGPT Health AI Fails in Emergency Medical Triage,manual
+INC-06926,INC-06777,OECD AIM,0.531,Spanish supermarket chain Mercadona fined for facial recognition privacy violations,Mercadona's Facial Recognition System Sparks Privacy and Legal Concerns,manual
+INC-05549,INC-05789,OECD AIM,0.528,CLIP computer vision system fooled by handwritten notes,OpenAI's CLIP Vision AI Vulnerable to Simple Handwritten Attacks,manual
+INC-01149,INC-00098,OECD AIM,0.505,"Grok generates offensive posts about Hillsborough, Heysel football disasters",AI Chatbot Grok Generates Offensive and Harmful Content About Football Tragedies,manual
+INC-06472,INC-07027,OECD AIM,0.461,Climate change denialism tweet bots,"Twitter Bots Amplify Climate Change Denial, Study Finds",manual
+INC-03019,INC-01993,OECD AIM,0.456,Perplexity AI shopping agent accused of violating Amazon terms of service,US Court Blocks Perplexity AI's Shopping Bots on Amazon,manual
+INC-01857,INC-01858,OECD AIM,0.452,Tesla Cybertruck attempts to drive off Houston overpass,Tesla Cybertruck Autopilot Crash Leads to Lawsuit in Houston,manual
+INC-06418,INC-06419,OECD AIM,0.43,California police licence plate data sharing,"California Police Misuse AI License Plate Readers, Violating Privacy Laws",manual
+INC-05866,INC-05428,OECD AIM,0.416,Study: AI satellite images can easily create fake news,AI-Generated Deepfake Satellite Images Raise Misinformation Risks,manual
+INC-06680,INC-06837,OECD AIM,0.409,Hangzhou 'Personal health code' scoring expansion triggers backlash,Permanent Health Code AI System in Hangzhou Raises Privacy and Discrimination Concerns,manual
+INC-05460,INC-05469,OECD AIM,0.403,"Amazon Mentor delivery driver scoring criticised as inaccurate, invasive",Amazon's AI-Driven Mentor App Raises Privacy and Labor Rights Concerns for Delivery Driver,manual
+INC-06932,INC-06297,OECD AIM,0.401,Student GPT-3 fake blog posts pass as human,AI-Generated Fake Blog Posts Fool Readers on Hacker News,manual
+INC-01004,INC-00495,OECD AIM,0.397,Fidesz causes outcry with divisive AI-generated political video,AI-Generated Political Video Sparks Outrage in Hungary,manual
+INC-06082,INC-06101,OECD AIM,0.395,Tesla China recalls cars over Autopilot Cruise Control activation,"Tesla Recalls 285,000 Cars in China Over AI Driving Software Malfunction Leading to Collis",manual
+INC-06812,INC-06601,OECD AIM,0.392,New Delhi police rapped for using facial recognition to monitor India citizenship law prot,Facial Recognition AI Used by Indian Police Sparks Rights Concerns During Protests,manual
+INC-05820,INC-06098,OECD AIM,0.378,Rear seat driver abuses Tesla Autopilot,Tesla Owner Arrested for Repeatedly Misusing Autopilot by Riding in Back Seat,manual
+INC-01636,INC-02022,OECD AIM,0.369,Pentagon uses Anthropic's Claude to plan and support Iran airstrikes,"US Military Uses Anthropic AI in Iran Strike Amid Ban, OpenAI Replaces Anthropic in Pentag",manual
+INC-01635,INC-02023,OECD AIM,0.36,Pentagon uses Anthropic's Claude to capture Venezuela president Maduro,US Military Uses Anthropic's Claude AI in Venezuela Attack; Chinese Firms Illegally Exploi,manual
+INC-07735,INC-07978,OECD AIM,0.359,Meta captures employee mouse movements to train AI models,Meta's AI Employee Tracking Tool Raises EU Privacy Concerns,manual
+INC-05794,INC-05795,OECD AIM,0.359,Pennslyvania woman allegedly frames daughter's rivals using deepfakes,Pennsylvania Mother Uses Deepfake AI to Harass Daughter's Cheerleading Rivals,manual
+INC-00370,INC-00369,OECD AIM,0.329,AI-generated code error results in USD 1.8m smart contract loss,AI-Generated Code Error Causes $1.78M Loss in DeFi Protocol Moonwell,manual
+INC-05744,INC-05589,OECD AIM,0.317,Leonid Volkov' deepfake video calls target European politicians,European Politicians Deceived by Deepfake Impersonating Navalny's Chief of Staff,manual
+INC-06120,INC-06115,OECD AIM,0.307,TikTok uses Bev Standing voice wiithout consent to train AI,TikTok Sued for Unauthorized Use of Actress's Voice in AI Text-to-Speech Feature,manual

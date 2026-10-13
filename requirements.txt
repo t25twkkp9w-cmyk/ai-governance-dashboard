@@ -1,0 +1,6 @@
+openai>=1.40.0
+pandas>=2.2.0
+plotly>=5.22.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+streamlit>=1.46.0
